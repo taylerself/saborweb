@@ -117,6 +117,6 @@ O projeto encontra-se em sua versão inicial. Algumas funcionalidades estão pre
 
 ## 11. Sobre o projeto
 
-Projeto acadêmico desenvolvido no curso de Ciência da Computação do Centro Universitário São Lucas.
+Projeto acadêmico desenvolvido no curso de Ciência da Computação Afya.
 
 O SaborWeb tem como objetivo incentivar o desenvolvimento das habilidades culinárias, oferecendo uma ferramenta acessível, organizada e prática para o cotidiano dos usuários.
